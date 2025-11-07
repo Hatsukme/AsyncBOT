@@ -53,7 +53,7 @@ AsyncBOT/
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/AsyncBOT.git
+   git clone https://github.com/Hatsukme/AsyncBOT.git
    cd AsyncBOT
    ```
 
