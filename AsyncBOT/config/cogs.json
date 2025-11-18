@@ -1,10 +1,5 @@
 {
     "loaded": [
-        "ping",
-        "duelo",
-        "welcome",
-        "setchannel",
-        "voice_factory"
     ],
     "unloaded": []
 }
