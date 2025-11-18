@@ -1,23 +1,5 @@
 {
     "types": [
-        "welcome",
-        "warnings",
-        "logs",
-        "voice_geral",
-        "voice_duo",
-        "voice_esquadrao"
-    ],
-    "welcome": 1435253572924211220,
-    "voice_templates": {
-        "voice_geral": [
-            1436073773005668474
-        ],
-        "voice_duo": [
-            1436074697128284312
-        ],
-        "voice_esquadrao": [
-            1436074746017222767
-        ]
-    },
-    "voice_temporary": []
+        "welcome"
+    ]
 }
